@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sonic",
+    "descripcion": "Un repaso al impacto cultural de Star Wars y cómo las nuevas series mantienen viva la Fuerza.Un repaso al impacto cultural de Star Wars y cómo las nuevas series mantienen viva la Fuerza",
+    "imagen": "https://picsum.photos/id/1015/800/400",
+    "categoria": "Cine",
+    "secciones": [
+      {
+        "titulo": "Los inicios de una saga galáctica",
+        "imagen": "https://picsum.photos/id/1021/600/300"
+      },
+      {
+        "titulo": "El salto al streaming con Disney+",
+        "imagen": "https://picsum.photos/id/1031/600/300"
+      },
+      {
+        "titulo": "El futuro del universo expandido",
+        "imagen": "https://picsum.photos/id/1040/600/300"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Inteligencia",
+    "descripcion": "Cómo la IA está revolucionando la forma en que jugamos y nos relacionamos con los personajes virtuales.",
+    "imagen": "https://picsum.photos/id/1018/800/400",
+    "categoria": "Tecnología",
+    "secciones": [
+      {
+        "titulo": "IA generativa en el diseño de mundos abiertos",
+        "imagen": "https://picsum.photos/id/1052/600/300"
+      },
+      {
+        "titulo": "NPCs que aprenden de tus decisiones",
+        "imagen": "https://picsum.photos/id/1058/600/300"
+      },
+      {
+        "titulo": "Ética y desafíos de la inteligencia artificial en el gaming",
+        "imagen": "https://picsum.photos/id/1063/600/300"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "El renacerque",
+    "descripcion": "Nuevos autores, estilos experimentales y la fuerza del crowdfunding impulsan una nueva era del cómic.",
+    "imagen": "https://picsum.photos/id/1024/800/400",
+    "categoria": "Cómics",
+    "secciones": [
+      {
+        "titulo": "Del papel al webcómic",
+        "imagen": "https://picsum.photos/id/1069/600/300"
+      },
+      {
+        "titulo": "El auge de las editoriales indie",
+        "imagen": "https://picsum.photos/id/1074/600/300"
+      },
+      {
+        "titulo": "Historias personales con estética experimental",
+        "imagen": "https://picsum.photos/id/1079/600/300"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Retrogaming",
+    "descripcion": "El encanto de las consolas clásicas y cómo la comunidad mantiene vivos los juegos que marcaron época.",
+    "imagen": "https://picsum.photos/id/1084/800/400",
+    "categoria": "Videojuegos",
+    "secciones": [
+      {
+        "titulo": "Coleccionismo y restauración de consolas antiguas",
+        "imagen": "https://picsum.photos/id/1089/600/300"
+      },
+      {
+        "titulo": "El pixel art como expresión moderna",
+        "imagen": "https://picsum.photos/id/1094/600/300"
+      },
+      {
+        "titulo": "La escena homebrew: crear para el pasado",
+        "imagen": "https://picsum.photos/id/1099/600/300"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Cosplay",
+    "descripcion": "Más allá del disfraz, el cosplay es una forma de expresión artística que une a miles de fans en todo el mundo.",
+    "imagen": "https://picsum.photos/id/1104/800/400",
+    "categoria": "Cultura Pop",
+    "secciones": [
+      {
+        "titulo": "Del hobby al profesionalismo",
+        "imagen": "https://picsum.photos/id/1109/600/300"
+      },
+      {
+        "titulo": "Materiales y tecnología en la confección de trajes",
+        "imagen": "https://picsum.photos/id/1114/600/300"
+      },
+      {
+        "titulo": "Eventos y comunidades cosplay alrededor del mundo",
+        "imagen": "https://picsum.photos/id/1119/600/300"
+      }
+    ]
+  }
+]
