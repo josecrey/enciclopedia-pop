@@ -6,6 +6,7 @@ const articleListContainer = document.querySelector(".article-list");
 var articleList = []
 
 
+
 function createArticle(article) {
     const card = document.createElement("article");
     card.className = "article-card";
@@ -21,6 +22,7 @@ function createArticle(article) {
     `
     return card
 }
+
 
 function createArticleCounter(number) {
     const counter = document.querySelector(".article-counter");
