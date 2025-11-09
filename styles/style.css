@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
     width: 80%;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     row-gap: 30px;
