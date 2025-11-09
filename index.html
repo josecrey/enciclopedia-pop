@@ -4,9 +4,15 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>EnciclopediaGEEK</title>
-        <!-- Scripts -->
+        <!-- Fonts -->
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Honk&family=Permanent+Marker&display=swap" rel="stylesheet">
+
         <!-- Styles -->
         <link rel="stylesheet" href="styles/reset.css" />
+        <link rel="stylesheet" href="styles/colors.css" />
+        <link rel="stylesheet" href="styles/fonts.css" />
         <link rel="stylesheet" href="styles/style.css" />
     </head>
     <body>
@@ -14,8 +20,11 @@
             <h1>ENCICLOPEDIA GEEK</h1>
             <h2>Explora las mejores sagas del entretenimiento</h2>
         </header>
-        <section class="article-search">
-            <input type="text" placeholder="Busqueda por titulo" id="article-search-input">
+        <section class="article-search-container">
+            <form id="article-search-form">
+                 <input type="text" placeholder="Busqueda por titulo" id="article-search-form__input">
+                 <button  type="reset" id="article-search-form__button-reset">Reset</form>
+            </form>
         </section>
         <section class="article-counter"></section> 
         <section class="article-list"></section>

@@ -5,6 +5,7 @@
     "descripcion": "Sonic es un erizo superveloz creado por Sega cuyo papel central es detener los planes del Dr. Eggman. La saga combina plataformas rápidas y acción mientras desarrolla un universo con numerosos personajes y estilos de juego",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sonic_the_Hedgehog_1991_logo.webp",
     "categoria": "Videojuegos",
+    "color": "#b7eb34",
     "secciones": [
       {
         "titulo": "Los inicios de una saga galáctica",
@@ -26,6 +27,7 @@
     "descripcion": "The Legend of Zelda sigue las aventuras de Link, un héroe destinado a proteger Hyrule y a la princesa Zelda de fuerzas oscuras como Ganon. La saga mezcla exploración, puzles y combates en mundos de fantasía que varían según cada entrega. Es una de las franquicias más influyentes del videojuego por su diseño y narrativa mítica.",
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg",
     "categoria": "Videojuegos",
+    "color": "#b7eb34",
     "secciones": [
       {
         "titulo": "IA generativa en el diseño de mundos abiertos",
@@ -47,6 +49,7 @@
     "descripcion": "Attack on Titan presenta a la humanidad refugiada tras enormes murallas para sobrevivir a los Titanes, criaturas gigantes que devoran personas. La historia sigue a Eren y sus aliados mientras intentan descubrir el origen de estos seres y defender su mundo. Combina acción intensa, drama y misterios que se revelan progresivamente.",
     "imagen": "https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo-700x394.png",
     "categoria": "Anime",
+    "color": "#F54927",
     "secciones": [
       {
         "titulo": "Del papel al webcómic",
@@ -68,6 +71,7 @@
     "descripcion": "Alien sigue encuentros letales entre humanos y los xenomorfos, criaturas perfectas para la caza y la supervivencia. La saga combina terror, ciencia ficción y supervivencia en escenarios espaciales claustrofóbicos. Su estética y mitología la convirtieron en un referente del cine de género.",
     "imagen": "https://logos-world.net/wp-content/uploads/2023/04/Alien-Logo-1979-500x281.png",
     "categoria": "Cine",
+    "color": "#b7eb34",
     "secciones": [
       {
         "titulo": "Coleccionismo y restauración de consolas antiguas",
@@ -89,6 +93,7 @@
     "descripcion": "The Boys retrata un mundo donde los superhéroes son celebridades corruptas controladas por una corporación. Un grupo de vigilantes intenta exponer sus abusos y enfrentar su poder desmedido. La serie mezcla sátira, violencia y crítica social para mostrar el lado oscuro del heroísmo.",
     "imagen": "https://logos-world.net/wp-content/uploads/2024/01/The-Boys-Logo-500x281.png",
     "categoria": "Series",
+    "color": "#b7eb34",
     "secciones": [
       {
         "titulo": "Del hobby al profesionalismo",
