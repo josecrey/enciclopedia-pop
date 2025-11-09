@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "titulo": "Sonic",
-    "descripcion": "Un repaso al impacto cultural de Star Wars y cómo las nuevas series mantienen viva la Fuerza.Un repaso al impacto cultural de Star Wars y cómo las nuevas series mantienen viva la Fuerza",
-    "imagen": "https://picsum.photos/id/1015/800/400",
-    "categoria": "Cine",
+    "titulo": "Sonic the hedgehog",
+    "descripcion": "Sonic es un erizo superveloz creado por Sega cuyo papel central es detener los planes del Dr. Eggman. La saga combina plataformas rápidas y acción mientras desarrolla un universo con numerosos personajes y estilos de juego",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sonic_the_Hedgehog_1991_logo.webp",
+    "categoria": "Videojuegos",
     "secciones": [
       {
         "titulo": "Los inicios de una saga galáctica",
@@ -22,10 +22,10 @@
   },
   {
     "id": 2,
-    "titulo": "Inteligencia",
-    "descripcion": "Cómo la IA está revolucionando la forma en que jugamos y nos relacionamos con los personajes virtuales.",
-    "imagen": "https://picsum.photos/id/1018/800/400",
-    "categoria": "Tecnología",
+    "titulo": "The legend of Zelda",
+    "descripcion": "The Legend of Zelda sigue las aventuras de Link, un héroe destinado a proteger Hyrule y a la princesa Zelda de fuerzas oscuras como Ganon. La saga mezcla exploración, puzles y combates en mundos de fantasía que varían según cada entrega. Es una de las franquicias más influyentes del videojuego por su diseño y narrativa mítica.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Zelda_Logo.svg",
+    "categoria": "Videojuegos",
     "secciones": [
       {
         "titulo": "IA generativa en el diseño de mundos abiertos",
@@ -43,10 +43,10 @@
   },
   {
     "id": 3,
-    "titulo": "El renacerque",
-    "descripcion": "Nuevos autores, estilos experimentales y la fuerza del crowdfunding impulsan una nueva era del cómic.",
-    "imagen": "https://picsum.photos/id/1024/800/400",
-    "categoria": "Cómics",
+    "titulo": "Ataque a los titanes",
+    "descripcion": "Attack on Titan presenta a la humanidad refugiada tras enormes murallas para sobrevivir a los Titanes, criaturas gigantes que devoran personas. La historia sigue a Eren y sus aliados mientras intentan descubrir el origen de estos seres y defender su mundo. Combina acción intensa, drama y misterios que se revelan progresivamente.",
+    "imagen": "https://logos-world.net/wp-content/uploads/2022/01/Attack-on-Titan-Logo-700x394.png",
+    "categoria": "Anime",
     "secciones": [
       {
         "titulo": "Del papel al webcómic",
@@ -64,10 +64,10 @@
   },
   {
     "id": 4,
-    "titulo": "Retrogaming",
-    "descripcion": "El encanto de las consolas clásicas y cómo la comunidad mantiene vivos los juegos que marcaron época.",
-    "imagen": "https://picsum.photos/id/1084/800/400",
-    "categoria": "Videojuegos",
+    "titulo": "Alien",
+    "descripcion": "Alien sigue encuentros letales entre humanos y los xenomorfos, criaturas perfectas para la caza y la supervivencia. La saga combina terror, ciencia ficción y supervivencia en escenarios espaciales claustrofóbicos. Su estética y mitología la convirtieron en un referente del cine de género.",
+    "imagen": "https://logos-world.net/wp-content/uploads/2023/04/Alien-Logo-1979-500x281.png",
+    "categoria": "Cine",
     "secciones": [
       {
         "titulo": "Coleccionismo y restauración de consolas antiguas",
@@ -85,10 +85,10 @@
   },
   {
     "id": 5,
-    "titulo": "Cosplay",
-    "descripcion": "Más allá del disfraz, el cosplay es una forma de expresión artística que une a miles de fans en todo el mundo.",
-    "imagen": "https://picsum.photos/id/1104/800/400",
-    "categoria": "Cultura Pop",
+    "titulo": "The Boys",
+    "descripcion": "The Boys retrata un mundo donde los superhéroes son celebridades corruptas controladas por una corporación. Un grupo de vigilantes intenta exponer sus abusos y enfrentar su poder desmedido. La serie mezcla sátira, violencia y crítica social para mostrar el lado oscuro del heroísmo.",
+    "imagen": "https://logos-world.net/wp-content/uploads/2024/01/The-Boys-Logo-500x281.png",
+    "categoria": "Series",
     "secciones": [
       {
         "titulo": "Del hobby al profesionalismo",

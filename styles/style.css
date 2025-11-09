@@ -30,11 +30,11 @@ header {
 
 .article-card__image {
     position: relative;
-    height: 60%;
+    height: 65%;
     overflow: hidden;
     
     img {
-        object-fit: cover;
+        object-fit: contain;
         aspect-ratio: 16/9;
         object-position: center;
         height: 100%;
