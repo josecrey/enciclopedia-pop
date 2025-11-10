@@ -34,7 +34,7 @@ function createArticleCounter(number) {
 
     if (counter) {
         counter.innerHTML = `
-        <h1 class="article-counter__text">Todas las sagas <span>(${number})</span></h1>
+        <h3 class="article-counter__text">Todas las sagas <span>(${number})</span></h1>
         `  
     } else {
         console.warn("No he podido encontrar article counter")
